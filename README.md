@@ -11,5 +11,5 @@ All input data (2075 files) is greyscale MFCC picture transformed from 24 kHz kn
 3. Boundary (Recorded from The boundary beside the infected area)
 ![boundary_spectrumplot](https://github.com/augsornthip03/SoundRecognitionOilpalm/assets/132915443/cd50f309-bf62-4878-b69d-f91b9c8c5759)
 
-The figures above showing the differences in term of signal characteristic. Before passing it to CNN, it had been transfored into MFCC spectrogram
+The figures above showing the differences in term of signal characteristic. Before passing it to CNN, it had been transformed into MFCC spectrogram
 ![fig6](https://github.com/augsornthip03/SoundRecognitionOilpalm/assets/132915443/c8c60681-396c-46ed-9e70-74b5376fb519)
